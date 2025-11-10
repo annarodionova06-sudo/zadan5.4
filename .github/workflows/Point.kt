@@ -1,4 +1,5 @@
 import kotlin.math.sqrt
+import kotlin.math.pow
 
 class Point {
     // Свойство: координата X точки
